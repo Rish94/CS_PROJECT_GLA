@@ -3,7 +3,7 @@ import React from 'react'
 export default function navbar() {
   return (
     <>
-      abcdefg
+      hello baby where are you
     </>
   )
 }
