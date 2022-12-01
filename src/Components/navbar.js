@@ -7,6 +7,7 @@ export default function navbar() {
     
     moj kar di bete
     hbvhfhv
+    wdcefrgthryjtu
     </>
   )
 }
