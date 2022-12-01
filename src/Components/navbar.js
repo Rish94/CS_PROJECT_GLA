@@ -4,6 +4,8 @@ export default function navbar() {
   return (
     <>
     mxsabhd 
+    
+    moj kar di bete
     </>
   )
 }
