@@ -3,11 +3,14 @@ import React from 'react'
 export default function navbar() {
   return (
     <>
+    mxsabhd 
     
-    <nav>
-      <li>Home</li>
-      <li>Contact us</li>
-    </nav>
+    moj kar di bete
+    hbvhfhv
+    wdcefrgthryjtu
+
+    okk baby
+    xcfsvgbhnj
     </>
   )
 }
