@@ -6,6 +6,7 @@ export default function navbar() {
     mxsabhd 
     
     moj kar di bete
+    hbvhfhv
     </>
   )
 }
