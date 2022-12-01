@@ -4,6 +4,7 @@ export default function navbar() {
   return (
     <>
       hello baby where are you
+      xsadfghm,.,mnbcvxzdsbnm,mnbvcx
     </>
   )
 }
